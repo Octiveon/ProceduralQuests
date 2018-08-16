@@ -1,0 +1,57 @@
+{
+  "0": [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" ],
+  "1": [ "1", "2", "3", "4", "5", "6", "7", "8", "9" ],
+  "ActionQ": [
+    "#action.capitalize#"
+  ],
+  "EXP": [
+    "<br>EXP: #1##0##0##0#",
+    "<br>EXP: #1##0##0#",
+    "<br>EXP: #1##0#"
+  ],
+  "NPC": [
+    "a student",
+    "Sir Reyner",
+    "Monk Niel",
+    "Grand Duke Geoff",
+    "Cardinal Humfrey",
+    "Chancellor Rolft",
+    "King Walterius",
+    "Landgrave Tholy",
+    "Sir Gerbertus",
+    "Prince Aurri",
+    "Badimvi Dosen",
+    "Ghevess Phriardat",
+    "Arenzu Dheivre",
+    "Diervoc Dheginded",
+    "Dedrehe Bulnith",
+    "Chorokna Zulzur",
+    "Acedre Zieseshreit",
+    "Eknodi Phrildribiel",
+    "Luhuksu Bhiestrish",
+    "Dapanzu Phriundraenush"
+  ],
+  "action": [
+    "find #place.a#",
+    "retrieve #1# #items.s#",
+    "locate #1# #place.s#"
+  ],
+  "giver": [
+    "<br>Recieved From: #NPC#"
+  ],
+  "origin": [
+    "Quest: #ActionQ# #EXP# #giver#"
+  ],
+  "place": [
+    "forest",
+    "house",
+    "mountain",
+    "redwood",
+    "snow capped mountain"
+  ],
+  "items": [
+    "cactai",
+    "mushroom",
+    "magic sword"
+  ]
+}
